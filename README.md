@@ -13,12 +13,7 @@ I combine deep technical skills with a product-mindset to deliver meaningful sof
 ---
 
 ## 🎯 Projects & Experience Highlights  
-Here are some of the key projects and roles I’ve worked on (drawn from my CV and portfolio at [nkemka.dev](https://nkemka.dev)):
-
-### 📌 Professional & Academic Roles  
-- Software Engineer at Zenstrin — built AI-powered search and recommendation systems, automated workflows, and full-stack features.  
-- Software Engineer Intern at Microsoft — contributed to cloud automation, data pipelines and internal dashboards.  
-- Contributor to multiple full-stack projects: AI search, food-delivery apps, e-commerce platforms, scheduling platforms.
+Here are some of the key projects I’ve worked on:
 
 ### 🧠 Key Projects (from portfolio)  
 - **Smart Voice Agent for Mental Health Check-ins** — front-end completed, now integrating backend with Twilio + ElevenLabs + Langflow to deliver voice-first agent workflows.  
