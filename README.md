@@ -15,11 +15,14 @@ I combine deep technical skills with a product-mindset to deliver meaningful sof
 ## 🎯 Projects & Experience Highlights  
 Here are some of the key projects I’ve worked on:
 
-### 🧠 Key Projects (from portfolio)  
-- **Smart Voice Agent for Mental Health Check-ins** — front-end completed, now integrating backend with Twilio + ElevenLabs + Langflow to deliver voice-first agent workflows.  
-- **ToonDoc: AI Voice Bot for Child Healthcare** — Next.js frontend built; currently shifting backend from Python → Node.js, containerised in Docker, deployed on VPS.  
-- **Hackathon Project – “OYO (On Your Own)” 1v1 Football Tournament Platform** — Developed full live-event stack for group stages + knockout rounds, integrated live-DJ and rapper performance; produced full YouTube video + Instagram/TikTok highlights.  
-- Additional freelance/client work: Building websites and apps for small businesses, startups and side-projects (available on request).
+### 🧠 Key Projects 
+- **🩺 Hackathon – AI Voice Bot for Child Healthcare (Hackathon Project)** — Designed an **AI-powered voice assistant** using **Next.js**, **Node.js**, **Langflow**, and **ElevenLabs**, enabling friendly health interactions for children. Containerised with **Docker** and deployed on a **VPS**, delivering real-time voice-to-action workflows.  
+
+- **🛡️ VoxGuard – AI Voice Fraud Detection Platform** — Built a real-time fraud detection system processing 200+ voice segments per minute with **Python**, **TypeScript**, and **WebSockets**. Integrated biometric and behavioral analytics to detect deepfakes with **82% accuracy**, strengthening trust and compliance in voice-based customer interactions.  
+
+- **🏙️ ZenFinder – Intelligent Property Insight Engine** — Developed scalable **Python** and **React** pipelines that turned fragmented property datasets into actionable insights. Fine-tuned **RAG-based AI models** and optimized automation workflows, cutting decision latency by **50%** for analysts.  
+
+- **💼 Freelance / Client Work** — Delivered **custom websites and apps** for startups, small businesses, and ministries, including brands like **Zenstrin**, **Gutzfit**, and **IwemiResearch**, focusing on automation, analytics, and responsive design.  
 
 ---
 
