@@ -44,19 +44,7 @@ In **April**, I participated in a high-energy hackathon (hosted by Langflow, Twi
 
 ---
 
-## 💡 Why Work With Me  
-- I bring both **engineering depth** and **business/UX sensibility** — from building internal data-platforms to client-facing products.  
-- I’ve worked across both **enterprise** and **startup** environments: I understand scope, delivery, and scaling.  
-- I’m actively building in emerging spaces (AI/agents, voice bots) — and can help bring tomorrow’s tech to your product today.  
-- Whether you’re a business owner looking for a custom web/app solution, or an organisation looking to hire a full-stack engineer with AI experience — I’m ready to collaborate.
 
----
-
-## 📫 Work With Me  
-If you’re looking for:  
-- A developer to build your next web or mobile app  
-- An engineer to architect AI-enabled features or agent workflows  
-- A reliable full-stack partner for MVP → production
 
 Let’s connect: **nkemkaomeiza@gmail.com**  
 You can also view more details on my portfolio: [nkemka.dev](https://nkemka.dev)
